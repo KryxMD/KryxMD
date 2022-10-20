@@ -32,5 +32,6 @@
 Texto de teste.
 https://www.markdownguide.org/cheat-sheet/
 https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-https://www.youtube.com/watch?v=1aXk2RViq3c
+https://www.youtube.com/watch?v=1aXk2RViq3c portifolio github
+https://www.youtube.com/channel/UCUsMtmPWGB9-c7MF1qzX8nA/videos varios desafios kaggle
 --->
